@@ -1,8 +1,8 @@
 # This is the config file for the fgt stat checker script.
 # 
 env_vars:
-    user: "EA6A7CA6-B43A-481A-9028-AE94B8F91324"
-    passwd: "e21321d77d2be006738c3c20bd90e4eb!1Aa"
+    user: "<user>"
+    passwd: "<passwd>"
 
 debug_config:
     debug_flag: "INFO" # Choices - DEBUG, INFO and NOTSET
